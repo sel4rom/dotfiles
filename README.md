@@ -1,0 +1,9 @@
+Dependencies:
+hyprland
+kitty
+waybar
+git
+python3
+rust
+lz4
+swww
